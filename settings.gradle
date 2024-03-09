@@ -3,4 +3,5 @@ include("openTelemetry")
 include("prometheus-grafana")
 include("tracing-jaeger-zipkin")
 include 'openTelmetry-grafana-tempo'
+include 'openTelemetry-loki'
 
